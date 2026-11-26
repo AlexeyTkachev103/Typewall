@@ -2,7 +2,7 @@
 
 A Flask-based web application for creating beautiful images with text (wallpapers, quotes, motivators).
 
-![[images/screen.png]]
+![UI](images/screen.png)
 
 ## Features
 
